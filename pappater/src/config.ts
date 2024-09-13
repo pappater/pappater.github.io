@@ -6,7 +6,7 @@ export const data = [
   {
     title: "blog",
     desc: "recording what intrigues me and random stuff",
-    url: "#",
+    url: "https://pappater.github.io/blog/",
   },
   {
     title: "docs",
@@ -15,7 +15,7 @@ export const data = [
   },
   {
     title: "portfolio",
-    desc: "includes tech, art, music and stuff i do",
+    desc: "[in-progress] includes tech, art, music and stuff i do",
     url: "https://pappater.github.io/docs/",
   },
 ];

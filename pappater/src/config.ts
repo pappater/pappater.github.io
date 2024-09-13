@@ -22,6 +22,10 @@ export const data = [
 
 export const socialLinks = [
   {
+    name: "github",
+    url: "https://github.com/pappater/",
+  },
+  {
     name: "twitter",
     url: "https://x.com/pappater",
   },

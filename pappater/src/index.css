@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    @apply bg-neutral-100 font-sf text-neutral-900; /* Set background color and font style */
+  }
